@@ -1,0 +1,128 @@
+Privacy Policy for Badlands Co
+
+Effective Date: [Effective Date]
+
+This Privacy Policy explains how Badlands Co (“Badlands Co,” “the Bot,” “we,” “us,” or “our”) collects, uses, stores, and protects information when you use our Discord bot.
+
+By adding, accessing, or using Badlands Co, you acknowledge that you have read and understood this Privacy Policy.
+
+1. Information We Collect
+
+Badlands Co may collect and process information necessary for the Bot to function. Depending on how you interact with the Bot, this may include:
+
+- Your Discord user ID
+- Your Discord username and display name
+- Discord server (guild) IDs and names
+- Channel IDs and names
+- Role information
+- Information contained in messages or commands sent to the Bot
+- Bot configuration settings for a server
+- User-created data associated with Bot features
+- Basic usage information related to interactions with the Bot
+
+We only collect information that is reasonably necessary for Badlands Co to provide its features and functionality.
+
+2. How We Use Information
+
+Information collected by Badlands Co may be used to:
+
+- Provide and operate the Bot
+- Process commands and requests
+- Store user or server settings
+- Provide features requested by users or server administrators
+- Maintain and improve the Bot
+- Diagnose errors and technical problems
+- Prevent abuse, spam, or misuse
+- Respond to support requests
+- Develop new features
+- Comply with applicable legal obligations
+
+We do not use collected information for purposes unrelated to the operation and improvement of Badlands Co unless required or permitted by law.
+
+3. Message Content
+
+Some Badlands Co features may require access to message content in order to function.
+
+When message content is processed, it is used only as necessary to provide the relevant Bot functionality. We do not intentionally use message content for advertising or sell message content to third parties.
+
+If a feature does not require message content to be stored, message content should not be retained longer than necessary to provide that feature.
+
+4. Information Sharing
+
+We do not sell your personal information.
+
+We may share or disclose information only when reasonably necessary to:
+
+- Operate Badlands Co or services required for its operation
+- Comply with applicable laws or legal obligations
+- Respond to valid legal requests
+- Protect the security and integrity of Badlands Co
+- Prevent fraud, abuse, or other harmful activity
+- Protect the rights, safety, or property of Badlands Co, its users, or others
+
+If third-party services are used to operate Badlands Co, those services may process information according to their own privacy policies.
+
+5. Data Retention
+
+We retain information only for as long as reasonably necessary for the purposes described in this Privacy Policy.
+
+The length of time information is retained may depend on the type of information and the feature that uses it.
+
+When information is no longer necessary, we may delete or anonymize it.
+
+You may contact us to request deletion of information associated with your Discord account where applicable.
+
+6. Data Security
+
+We take reasonable measures to protect information collected by Badlands Co from unauthorized access, alteration, disclosure, or destruction.
+
+However, no method of electronic storage or transmission is completely secure. Therefore, we cannot guarantee absolute security of your information.
+
+7. Children’s Privacy
+
+Badlands Co is a Discord bot and is not specifically directed toward children.
+
+Users must comply with Discord's applicable age requirements and policies when using Discord and Badlands Co.
+
+We do not knowingly collect personal information from children in violation of applicable law.
+
+8. Discord
+
+Badlands Co operates through Discord and is subject to Discord's platform rules and policies.
+
+Your use of Discord is also governed by Discord's own Terms of Service and Privacy Policy.
+
+Badlands Co is not affiliated with or endorsed by Discord unless explicitly stated otherwise.
+
+9. Your Rights
+
+Depending on your location and applicable law, you may have rights regarding information associated with you, including the ability to request:
+
+- Access to certain information we hold about you
+- Correction of inaccurate information
+- Deletion of information
+- Information about how your information is used
+
+To make a request, contact us using the contact information provided below.
+
+We may need to verify your identity or Discord account before fulfilling certain requests.
+
+10. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+When changes are made, the updated version will be posted at the location where this Privacy Policy is made available, along with an updated Effective Date.
+
+Your continued use of Badlands Co after changes are published constitutes acceptance of the updated Privacy Policy to the extent permitted by applicable law.
+
+11. Contact
+
+If you have questions, concerns, or requests regarding this Privacy Policy, contact:
+
+Developer: Anthony Czuchaj
+Email: anthony.czuchaj@gmail.com
+Website: SomethingStudio.io
+
+12. Effective Date
+
+This Privacy Policy is effective as of 09/18/2026.

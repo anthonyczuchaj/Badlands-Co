@@ -1,0 +1,265 @@
+Terms of Service for Badlands Co
+
+Effective Date: 09/18/26
+
+These Terms of Service (“Terms”) govern your use of Badlands Co (“Badlands Co,” “the Bot,” “we,” “us,” or “our”), a Discord bot developed by [Developer Name].
+
+By adding, accessing, or using Badlands Co, you agree to these Terms. If you do not agree to these Terms, you should not use the Bot.
+
+1. Use of the Bot
+
+Badlands Co is provided as a Discord bot intended to provide various features and services to Discord users and servers.
+
+You agree to use Badlands Co only for lawful purposes and in accordance with:
+
+- These Terms
+- Discord's Terms of Service
+- Discord's Community Guidelines
+- Discord's Developer Terms and applicable policies
+- Any applicable laws and regulations
+
+2. Prohibited Use
+
+You may not use Badlands Co to:
+
+- Violate applicable laws or regulations
+- Abuse, exploit, or intentionally disrupt the Bot
+- Attempt to gain unauthorized access to the Bot or its systems
+- Interfere with the operation of the Bot
+- Exploit bugs or vulnerabilities for malicious purposes
+- Use the Bot to distribute malware or other harmful software
+- Harass, threaten, or harm other users
+- Circumvent reasonable limitations or restrictions placed on the Bot
+- Use the Bot in a manner that violates Discord's policies
+
+We reserve the right to restrict or terminate access to Badlands Co for users or servers that violate these Terms.
+
+3. Server Administrators
+
+Discord server administrators are responsible for deciding whether Badlands Co is appropriate for their server.
+
+Server administrators are also responsible for configuring the Bot appropriately and ensuring that their server's use of the Bot complies with applicable rules and laws.
+
+Removing Badlands Co from a server will generally prevent the Bot from collecting new information from that server, although previously stored information may remain until it is deleted according to our Privacy Policy.
+
+4. Availability
+
+We attempt to keep Badlands Co available and functioning properly, but we do not guarantee that the Bot will always be available.
+
+Badlands Co may become temporarily unavailable because of:
+
+- Maintenance
+- Updates
+- Technical problems
+- Discord outages or changes
+- Hosting or infrastructure issues
+- Security incidents
+- Circumstances outside our control
+
+We reserve the right to modify, suspend, or discontinue any feature of Badlands Co at any time.
+
+5. Updates and Changes
+
+Badlands Co may receive updates, changes, or new features.
+
+Features may be added, modified, removed, or discontinued without prior notice.
+
+We may also update these Terms when necessary. Updated Terms will become effective when published.
+
+6. User-Generated Content
+
+Badlands Co may process information or content submitted by users through Discord.
+
+You remain responsible for the content you submit or cause the Bot to process.
+
+You represent that you have the necessary rights to submit such content and that your use of the Bot does not violate applicable law or the rights of others.
+
+7. Intellectual Property
+
+Unless otherwise stated, Badlands Co and its associated software, branding, documentation, and original materials are owned by or licensed to Anthony Czuchaj.
+
+You may not copy, modify, distribute, reverse engineer, sell, or commercially exploit Badlands Co or its proprietary components without permission, except where such activity is permitted by applicable law.
+
+Discord and Discord-related trademarks belong to their respective owners.
+
+8. Third-Party Services
+
+Badlands Co may depend on Discord and potentially other third-party services.
+
+We are not responsible for outages, changes, or failures caused by third-party services.
+
+Your use of third-party services may also be subject to their own terms and policies.
+
+9. Disclaimer
+
+Badlands Co is provided on an “as is” and “as available” basis.
+
+To the maximum extent permitted by applicable law, we make no warranties regarding the Bot's availability, reliability, accuracy, or suitability for a particular purpose.
+
+We do not guarantee that Badlands Co will be uninterrupted, error-free, or free of security vulnerabilities.
+
+10. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Anthony Czuchaj will not be liable for indirect, incidental, consequential, special, or punitive damages arising from your use of or inability to use Badlands Co.
+
+This includes, where permitted by law, loss of data, loss of virtual items or currency, loss of server configurations, or other losses resulting from the use of the Bot.
+
+Nothing in these Terms excludes liability that cannot legally be excluded under applicable law.
+
+11. Termination
+
+We may suspend or terminate access to Badlands Co for a user or server at any time if we reasonably believe that the Bot is being abused, misused, or used in violation of these Terms or applicable policies.
+
+You may stop using Badlands Co at any time by removing the Bot from your Discord server or ceasing to interact with it.
+
+12. Changes to the Terms
+Terms of Service for Badlands Co
+
+Effective Date: 09/18/26
+
+These Terms of Service (“Terms”) govern your use of Badlands Co (“Badlands Co,” “the Bot,” “we,” “us,” or “our”), a Discord bot developed by Anthony Czuchaj.
+
+By adding, accessing, or using Badlands Co, you agree to these Terms. If you do not agree to these Terms, you should not use the Bot.
+
+1. Use of the Bot
+
+Badlands Co is provided as a Discord bot intended to provide various features and services to Discord users and servers.
+
+You agree to use Badlands Co only for lawful purposes and in accordance with:
+
+- These Terms
+- Discord's Terms of Service
+- Discord's Community Guidelines
+- Discord's Developer Terms and applicable policies
+- Any applicable laws and regulations
+
+2. Prohibited Use
+
+You may not use Badlands Co to:
+
+- Violate applicable laws or regulations
+- Abuse, exploit, or intentionally disrupt the Bot
+- Attempt to gain unauthorized access to the Bot or its systems
+- Interfere with the operation of the Bot
+- Exploit bugs or vulnerabilities for malicious purposes
+- Use the Bot to distribute malware or other harmful software
+- Harass, threaten, or harm other users
+- Circumvent reasonable limitations or restrictions placed on the Bot
+- Use the Bot in a manner that violates Discord's policies
+
+We reserve the right to restrict or terminate access to Badlands Co for users or servers that violate these Terms.
+
+3. Server Administrators
+
+Discord server administrators are responsible for deciding whether Badlands Co is appropriate for their server.
+
+Server administrators are also responsible for configuring the Bot appropriately and ensuring that their server's use of the Bot complies with applicable rules and laws.
+
+Removing Badlands Co from a server will generally prevent the Bot from collecting new information from that server, although previously stored information may remain until it is deleted according to our Privacy Policy.
+
+4. Availability
+
+We attempt to keep Badlands Co available and functioning properly, but we do not guarantee that the Bot will always be available.
+
+Badlands Co may become temporarily unavailable because of:
+
+- Maintenance
+- Updates
+- Technical problems
+- Discord outages or changes
+- Hosting or infrastructure issues
+- Security incidents
+- Circumstances outside our control
+
+We reserve the right to modify, suspend, or discontinue any feature of Badlands Co at any time.
+
+5. Updates and Changes
+
+Badlands Co may receive updates, changes, or new features.
+
+Features may be added, modified, removed, or discontinued without prior notice.
+
+We may also update these Terms when necessary. Updated Terms will become effective when published.
+
+6. User-Generated Content
+
+Badlands Co may process information or content submitted by users through Discord.
+
+You remain responsible for the content you submit or cause the Bot to process.
+
+You represent that you have the necessary rights to submit such content and that your use of the Bot does not violate applicable law or the rights of others.
+
+7. Intellectual Property
+
+Unless otherwise stated, Badlands Co and its associated software, branding, documentation, and original materials are owned by or licensed to Anthony Czuchaj.
+
+You may not copy, modify, distribute, reverse engineer, sell, or commercially exploit Badlands Co or its proprietary components without permission, except where such activity is permitted by applicable law.
+
+Discord and Discord-related trademarks belong to their respective owners.
+
+8. Third-Party Services
+
+Badlands Co may depend on Discord and potentially other third-party services.
+
+We are not responsible for outages, changes, or failures caused by third-party services.
+
+Your use of third-party services may also be subject to their own terms and policies.
+
+9. Disclaimer
+
+Badlands Co is provided on an “as is” and “as available” basis.
+
+To the maximum extent permitted by applicable law, we make no warranties regarding the Bot's availability, reliability, accuracy, or suitability for a particular purpose.
+
+We do not guarantee that Badlands Co will be uninterrupted, error-free, or free of security vulnerabilities.
+
+10. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Anthony Czuchaj will not be liable for indirect, incidental, consequential, special, or punitive damages arising from your use of or inability to use Badlands Co.
+
+This includes, where permitted by law, loss of data, loss of virtual items or currency, loss of server configurations, or other losses resulting from the use of the Bot.
+
+Nothing in these Terms excludes liability that cannot legally be excluded under applicable law.
+
+11. Termination
+
+We may suspend or terminate access to Badlands Co for a user or server at any time if we reasonably believe that the Bot is being abused, misused, or used in violation of these Terms or applicable policies.
+
+You may stop using Badlands Co at any time by removing the Bot from your Discord server or ceasing to interact with it.
+
+12. Changes to the Terms
+
+We may modify these Terms from time to time.
+
+When changes are made, the updated Terms will be published with a new Effective Date.
+
+Your continued use of Badlands Co after the updated Terms become effective constitutes acceptance of the revised Terms to the extent permitted by applicable law.
+
+13. Contact
+
+If you have questions regarding these Terms, contact:
+
+Developer: Anthony Czuchaj
+Email: anthony.czuchaj@gmail.com
+Website: somethingstudio.io
+
+14. Effective Date
+
+These Terms of Service are effective as of 09/18/26.
+We may modify these Terms from time to time.
+
+When changes are made, the updated Terms will be published with a new Effective Date.
+
+Your continued use of Badlands Co after the updated Terms become effective constitutes acceptance of the revised Terms to the extent permitted by applicable law.
+
+13. Contact
+
+If you have questions regarding these Terms, contact:
+
+Developer: Anthony Czuchaj
+Email: anthony.czuchaj@gmail.com
+Website: somethingstudio.io
+
+14. Effective Date
+
+These Terms of Service are effective as of 09/18/26.
