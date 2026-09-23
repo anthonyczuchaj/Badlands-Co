@@ -4,7 +4,7 @@ embedItemMarketListing = discord.Embed(
     description="Take this oppurtunity to list an item, either for sale, or for auction. Any money you make is yours to keep, and yours to earn!",
     color=discord.Color.gold()
     )
-embedItemMarketListing.set_image(url="/IMG/Banner.png")
+embedItemMarketListing.set_image(url="https://raw.githubusercontent.com/anthonyczuchaj/Badlands-Co/refs/heads/main/Bot/IMG/Banner.png")
 
 embedItemSell = discord.Embed(
     title="Sell An Item!",
