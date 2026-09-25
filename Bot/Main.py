@@ -20,7 +20,13 @@ class BadlandsBot(discord.Client):
         self.tree.copy_global_to(guild=GUILD)
         await self.tree.sync(guild=GUILD)
 
+        # Persistent item-market creation menu.
         self.add_view(Badlands.ItemMarketView())
+
+        # Restore all auction/buy buttons from marketplace.json.
+        restored = await Badlands.restore_marketplace_views(self)
+
+        print(f"Restored {restored} marketplace views.")
 
 
 bot = BadlandsBot()

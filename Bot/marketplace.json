@@ -1,0 +1,103 @@
+{
+    "auctions": {
+        "1553063834984382609": {
+            "item_name": "999999",
+            "quantity": 9,
+            "starting_bid": 99999999,
+            "highest_bid": 100009999,
+            "highest_bidder_id": 537414637600374786,
+            "duration": "1m",
+            "end_time": "2026-09-25T15:22:04.828984+00:00",
+            "description": "999999",
+            "seller_id": 310116819421757440,
+            "image_url": null
+        },
+        "1553065481517142028": {
+            "item_name": "Test",
+            "quantity": 1,
+            "starting_bid": 1000,
+            "highest_bid": 1000,
+            "highest_bidder_id": null,
+            "duration": "1h",
+            "end_time": "2026-09-25T16:27:41.395735+00:00",
+            "description": "aerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr",
+            "seller_id": 537414637600374786,
+            "image_url": null
+        },
+        "1553075585926823948": {
+            "item_name": "Diamond Gun",
+            "quantity": 1,
+            "starting_bid": 1000,
+            "highest_bid": 1001,
+            "highest_bidder_id": 1359373747831967817,
+            "duration": "1d",
+            "end_time": "2026-09-26T16:07:49.080220+00:00",
+            "description": "Testing",
+            "seller_id": 537414637600374786,
+            "image_url": null
+        },
+        "1553079456829014049": {
+            "item_name": "1414",
+            "quantity": 444,
+            "starting_bid": 4444,
+            "highest_bid": 4444,
+            "highest_bidder_id": null,
+            "duration": "1d",
+            "end_time": "2026-09-26T16:23:13.142840+00:00",
+            "description": "ghstyhaegaewrgewr",
+            "seller_id": 537414637600374786
+        }
+    },
+    "sales": {
+        "1552930316849774663": {
+            "item_name": "test",
+            "quantity": 1,
+            "price": 1,
+            "description": "",
+            "seller_id": 537414637600374786
+        },
+        "1552931054745026693": {
+            "item_name": "Test",
+            "quantity": 1,
+            "price": 1,
+            "description": "",
+            "seller_id": 537414637600374786
+        },
+        "1552966944918081537": {
+            "item_name": "Totem Of Undying",
+            "quantity": 3,
+            "price": 14500,
+            "description": "Totem of undying, gives you a second chance in life",
+            "seller_id": 802167717204721704
+        },
+        "1553068938806698109": {
+            "item_name": "atrgr",
+            "quantity": 1,
+            "price": 4564563,
+            "description": "ggerg",
+            "seller_id": 537414637600374786,
+            "image_url": null
+        },
+        "1553076424569790596": {
+            "item_name": "Diamond",
+            "quantity": 64,
+            "price": 100,
+            "description": "Selling Diamonds 100$ per Diamond",
+            "seller_id": 537414637600374786,
+            "image_url": null
+        }
+    },
+    "pending_orders": {
+        "45efb3fefb774700b5cef8e726b5f65c": {
+            "sale_id": "1552966944918081537",
+            "buyer_id": 537414637600374786,
+            "seller_id": 802167717204721704,
+            "item_name": "Totem Of Undying",
+            "quantity": 1,
+            "price_each": 14500,
+            "total": 14500,
+            "status": "pending",
+            "order_message_id": 1553061235682054234
+        }
+    }
+}
