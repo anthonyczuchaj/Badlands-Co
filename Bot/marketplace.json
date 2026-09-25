@@ -85,6 +85,14 @@
             "description": "Selling Diamonds 100$ per Diamond",
             "seller_id": 537414637600374786,
             "image_url": null
+        },
+        "1553090468835889243": {
+            "item_name": "Diamond",
+            "quantity": 61,
+            "price": 100,
+            "description": "Selling 64 diamonds 100 each",
+            "seller_id": 537414637600374786,
+            "image_url": null
         }
     },
     "pending_orders": {

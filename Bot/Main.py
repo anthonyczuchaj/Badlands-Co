@@ -1,4 +1,5 @@
-import Badlands
+import ItemMarket
+import LandMarket
 import os
 import discord
 from discord import app_commands
@@ -20,11 +21,10 @@ class BadlandsBot(discord.Client):
         self.tree.copy_global_to(guild=GUILD)
         await self.tree.sync(guild=GUILD)
 
-        # Persistent item-market creation menu.
-        self.add_view(Badlands.ItemMarketView())
+        self.add_view(ItemMarket.ItemMarketView())
+        self.add_view(LandMarket.LandMarketView())
 
-        # Restore all auction/buy buttons from marketplace.json.
-        restored = await Badlands.restore_marketplace_views(self)
+        restored = await ItemMarket.restore_marketplace_views(self)
 
         print(f"Restored {restored} marketplace views.")
 
@@ -38,16 +38,50 @@ bot = BadlandsBot()
 )
 async def create_item_post(interaction: discord.Interaction):
 
-    forumItemMarket = bot.get_channel(1550648832784736366)
+    forumItemMarket = bot.get_channel(
+        1550648832784736366
+    )
 
     await forumItemMarket.create_thread(
         name="𝕃𝕚𝕤𝕥 𝕒𝕟 𝕀𝕥𝕖𝕞",
-        embed=Badlands.embedItemMarketListing,
-        view=Badlands.ItemMarketView()
+        embed=ItemMarket.embedItemMarketListing,
+        view=ItemMarket.ItemMarketView()
     )
 
     await interaction.response.send_message(
         "Item market post created!",
+        ephemeral=True
+    )
+
+
+@bot.tree.command(
+    name="createlandpost",
+    description="Create the land auction marketplace post."
+)
+async def create_land_post(interaction: discord.Interaction):
+
+    forum = bot.get_channel(
+        LandMarket.LAND_MARKET_FORUM_ID
+    )
+
+    if forum is None or not isinstance(
+        forum,
+        discord.ForumChannel
+    ):
+        await interaction.response.send_message(
+            "❌ The land market forum could not be found.",
+            ephemeral=True
+        )
+        return
+
+    await forum.create_thread(
+        name="𝕃𝕚𝕤𝕥 𝕒 𝕃𝕒𝕟𝕕",
+        embed=LandMarket.embedLandMarketListing,
+        view=LandMarket.LandMarketView()
+    )
+
+    await interaction.response.send_message(
+        "🏞️ Land marketplace post created!",
         ephemeral=True
     )
 

@@ -1,0 +1,33 @@
+{
+  "auctions": {
+    "1553158975036588053": {
+      "seller_id": 1454545811550638111,
+      "claim_name": "Bwjw jw 2",
+      "chunks": "25",
+      "starting_price": "50000000000",
+      "bin_price": "8090000999",
+      "duration": "1 Hour\n<t:1790375951:R>",
+      "end_time": 1790375951,
+      "status": "ACTIVE",
+      "current_bid": 99999999999999999999,
+      "current_bidder_id": 310116819421757440,
+      "image_url": null,
+      "description": null
+    }
+  },
+  "sales": {
+    "1553159598691721227": {
+      "seller_id": 310116819421757440,
+      "claim_name": "tony's houss",
+      "chunks": "0,5",
+      "price": "050",
+      "image_url": null,
+      "end_time": null,
+      "status": "SOLD",
+      "description": null,
+      "duration": "SOLD"
+    }
+  },
+  "completed": [],
+  "offers": {}
+}
